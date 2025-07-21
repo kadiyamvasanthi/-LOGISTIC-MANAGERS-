@@ -39,11 +39,13 @@ Note: Replace the placeholder above with your actual video link (Google Drive, Y
 🚀 Future Improvements
 ------------------------------------------------------------------
 Add Google Maps API for route visualization
+
 Implement advanced filtering and route optimization
+
 Enable live shipment tracking
-.
 
 Add notification system (email/SMS updates)
+.
 [Logisticmanagers-main.zip](https://github.com/user-attachments/files/21341174/Logisticmanagers-main.zip)
 
 
