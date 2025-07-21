@@ -1,4 +1,4 @@
-# -LOGISTIC-MANAGERS-
+# -🚚 LOGISTIC-MANAGERS– Smart Transport Cost Optimization Platform
 Logistic Managers is a full-stack web application designed to connect transporters and customers efficiently, aiming to reduce overall shipment costs through optimized logistics planning.
 .
 
